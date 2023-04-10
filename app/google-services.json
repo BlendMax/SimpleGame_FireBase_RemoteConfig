@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723236521572",
+    "project_id": "fbgame-c5694",
+    "storage_bucket": "fbgame-c5694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723236521572:android:28940daee7e89f0627c171",
+        "android_client_info": {
+          "package_name": "com.kozak.mygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723236521572-2tljb6g07j3gu9jotlqfl95o7kjtikt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yjoFwtnDObvRltcQLsdpGKWx0JCfp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723236521572-2tljb6g07j3gu9jotlqfl95o7kjtikt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
